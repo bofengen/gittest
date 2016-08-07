@@ -1,6 +1,7 @@
 A
 B
 C
+G
 hello me
 
 test rm --cached
@@ -14,3 +15,4 @@ Porky Pig
 daffy duck
 
 test conflict from master
+test 1
