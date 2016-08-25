@@ -1,6 +1,10 @@
 edit in b6
 <<<<<<< HEAD
+<<<<<<< HEAD
 modify tttt @branch6 2
 =======
 >>>>>>> b6
 test rebase in master
+=======
+test rebase in b6
+>>>>>>> test rebase @b6
